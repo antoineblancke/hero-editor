@@ -2,4 +2,4 @@
 
 Angular2/Typescript Tutorial
 
-Notes :
+Notes : 
