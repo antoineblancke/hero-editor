@@ -1,2 +1,5 @@
 # hero-editor
-Angular2/Typescript tutorial
+
+Angular2/Typescript Tutorial
+
+Notes :
